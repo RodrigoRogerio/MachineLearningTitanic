@@ -1,4 +1,4 @@
-# Desafio Machine Learning Titanic
+# Desafio de Machine Learning Titanic
 
 **História:**
 Em 15 de abril de 1912, durante sua viagem inaugural, o Titanic afundou após colidir com um iceberg, matando 1502 de 2224 passageiros e tripulação.. Uma das razões que o naufrágio levou a tal perda de vida era que não havia bastantes barcos salva-vidas para os passageiros e tripulação. Embora houvesse algum elemento de sorte envolvido em sobreviver ao afundamento, alguns grupos de pessoas eram mais propensos a sobreviver do que outros, como mulheres, crianças e a classe alta. 
